@@ -1,0 +1,11 @@
+body {
+  font-family: georgia;
+  padding: 50px;
+  background-color: #d2a8c5;
+}
+
+div#about_me {
+  padding: 30px;
+  text-align: center;
+}
+
